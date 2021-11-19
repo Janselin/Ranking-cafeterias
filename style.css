@@ -1,8 +1,4 @@
 /* 
-Blanco: #EEEBDD
-Rojo: #810000
-Bordo: #630000
-Negro: #1B1717 
 
 font-family: 'Allison', cursive;
 font-family: 'Alumni Sans', sans-serif;
@@ -47,7 +43,7 @@ body {
 .actions {
     position: absolute;
     top: 13px;
-    right: 8px;
+    right: 18px;
 }
 
 h1, h2, footer a {
